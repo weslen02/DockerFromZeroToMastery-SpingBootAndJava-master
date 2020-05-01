@@ -1,7 +1,10 @@
 # Docker do Zero à Maestria - Contêinerização Desmistificada
 
-[![Build Status](https://travis-ci.org/leandrocgsi/DockerFromZeroToMastery-SpingBootAndJava.svg?branch=master)](https://travis-ci.org/leandrocgsi/DockerFromZeroToMastery-SpingBootAndJava)
+> Meu build do travis
 
+[![Build Status](https://travis-ci.com/weslen02/DockerFromZeroToMastery-SpingBootAndJava-master.svg?branch=master)](https://travis-ci.com/weslen02/DockerFromZeroToMastery-SpingBootAndJava-master)
+
+> Cursos Udemy do mestre Leandro, no qual foi baseado esse projeto:
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?referralCode=47C7146F506F6CB0C4B3)
 
